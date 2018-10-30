@@ -17,11 +17,11 @@
   <distributionManagement>
 
 		<repository>
-			<id>Maven-release</id>
+			<id>nexus-release</id>
 			<url>http://192.168.33.10:8081/nexus/content/repositories/arrele/</url>
 		</repository>
 		<snapshotRepository>
-			<id>Maven-snapshot</id>
+			<id>nexus-snapshot</id>
 			<url>http://192.168.33.10:8081/nexus/content/repositories/arsnap/</url>
 		</snapshotRepository>		
   </distributionManagement>
