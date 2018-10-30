@@ -33,11 +33,11 @@
 
 		<repository>
 			<id>Maven-release</id>
-			<url>http://localhost:8081/nexus/content/repositories/Maven-release/</url>
+			<url>http://192.168.33.10:8081/nexus/content/repositories/arrele/</url>
 		</repository>
 		<snapshotRepository>
 			<id>Maven-snapshot</id>
-			<url>http://localhost:8081/nexus/content/repositories/Maven-snapshot/</url>
+			<url>http://192.168.33.10:8081/nexus/content/repositories/arsnap/</url>
 		</snapshotRepository>		
   </distributionManagement>
 </project>
